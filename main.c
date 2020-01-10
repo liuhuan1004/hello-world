@@ -7,11 +7,8 @@ void main(void)
   int a;
   int c;
   c = a+1;
-
-  
+	
   a++;
-	printf("hello world.");
-
-
+  printf("hello world.");
 
 }
