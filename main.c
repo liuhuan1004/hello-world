@@ -14,6 +14,11 @@ void main(void)
 abcd+;
 abc++;
 
+<<<<<<< .mine
 master++;
 
+=======
+
+NEW BRACHN
+>>>>>>> .theirs
 }
