@@ -1,26 +1,9 @@
 #include "stdio.h"
 
-abcd
 
 void main(void)
 {
 
-MAS
-  int a;
-  int c;
-  c = a+1;
+    printf("hello world.this is the first git\n");
 
-
-  a++;
-	printf("hello world.");
-abcd+;
-abc++;
-
-<<<<<<< .mine
-master++;
-
-=======
-
-NEW BRACHN
->>>>>>> .theirs
 }
