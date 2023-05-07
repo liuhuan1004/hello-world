@@ -1,5 +1,5 @@
 #include "stdio.h"
-#include "sub.h"
+#include "sub.c"
 
 int main(void)
 {
